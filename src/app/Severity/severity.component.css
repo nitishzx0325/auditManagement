@@ -1,0 +1,49 @@
+.result-card {
+  top: 100px;
+  background: rgba(53, 192, 192, 0.707);
+  color: #f9f90a;
+}
+
+.status-btn {
+  background-color: #ff0000;
+  width: 100px;
+  height: 25px;
+  border-radius: 0%;
+}
+
+.dark-table {
+  background-color: rgba(36, 33, 33, 0.824);
+}
+
+th {
+  text-align: center;
+  background-color: rgba(36, 33, 33, 0.634);
+  color: #ffffffb2;
+}
+td {
+  background-color: aliceblue;
+}
+.bigbtn {
+  border: #f9f90a;
+  background: #f9f90a;
+  padding: 5px;
+}
+.endbtn {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.tsev {
+  font-weight: 500;
+}
+
+.dotdots {
+  position: absolute;
+  top: 15vh;
+  left: 37vw;
+}
+.zx {
+  column-count: 3;
+  column-gap: 40px;
+  column-rule: 4px double #ccff00;
+}
